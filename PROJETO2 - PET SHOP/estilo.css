@@ -1,0 +1,33 @@
+body{
+    background-color: #ffa0dc;
+
+   
+}
+li {
+    float:left;
+    list-style: none;
+    background-color: #f3f58c;
+    display:block;
+    border:1px solid#fcfcfc;
+    margin:0px;
+    padding:20px;
+    padding-inline-start: 60px;
+    text-align: center;
+    text-decoration: none;
+    
+  }
+  li:hover{
+    color: white;
+    background:#0cebdf;
+    cursor: pointer;
+    box-shadow:3px 3px 3px rgb(75, 73, 73);
+    text-decoration: none;
+}
+.div2{
+    margin-left:0px;
+    margin-right: 20px;
+    text-decoration: none;
+}
+a {
+    text-decoration: none;
+}
